@@ -35,3 +35,6 @@ Extend analysis from Task 1 to help identify benchmark stores to test the impact
 - The above 2 funcitons are used and averaged to compute the magnitude of similartiy for the trial stores based on Total_Sales and Number_of_Customers.
 - Highest average score (average of Total_Sales and Number_of_Customers magnitude of similarity) for each trial store is chosen as the control store.
 - Next phase is to assess trial store's performance compared to control store's scaled performance (scaled control store's performance to match trial store's). Used t-value to check if each trial and control store's percentage difference is statistically significant during the trial phase compared to the percentage difference during pre-trial phase.
+
+# Task 3: Creating a power-point presentation to present our findings
+- Used Pyramid principle with its top to bottom approach to deliver insights to Category Manager
